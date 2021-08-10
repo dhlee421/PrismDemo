@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrismDemo", "PrismDemo\PrismDemo.csproj", "{EAB988BC-8FD3-49A2-9C69-8AF27CD05F42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModuleA", "ModuleA\ModuleA.csproj", "{0694BB49-4B22-45A6-8C30-14C422AFF40C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAB988BC-8FD3-49A2-9C69-8AF27CD05F42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAB988BC-8FD3-49A2-9C69-8AF27CD05F42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAB988BC-8FD3-49A2-9C69-8AF27CD05F42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAB988BC-8FD3-49A2-9C69-8AF27CD05F42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0694BB49-4B22-45A6-8C30-14C422AFF40C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0694BB49-4B22-45A6-8C30-14C422AFF40C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0694BB49-4B22-45A6-8C30-14C422AFF40C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0694BB49-4B22-45A6-8C30-14C422AFF40C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6D78F60-2B92-4437-A848-3873A2062D18}
+	EndGlobalSection
+EndGlobal
